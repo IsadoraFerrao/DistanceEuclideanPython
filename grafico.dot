@@ -1,0 +1,9 @@
+graph{
+	label="Legenda";
+	bgcolor=gray;
+	nodesep=1.0;
+	Z [shape=circle,width=0.7,style=filled,fillcolor=blue, pos="3,2!"];
+	P0 [shape=square,width=0.7,style=filled,fillcolor=green, pos="14,4!"];
+	Z--P0 [label="10.23",color=green];
+
+}
